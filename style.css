@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;margin: 0px;font-family: Andale Mono, monospace;background-image: linear-gradient(to right,#0A64A4, #7CCF9B,#00B945);
+}
+p {
+font-size: 25px;padding: 5px;color:white;
+}
+a {
+    font-size: 20px;color: white;
+}
+main {
+   
+}
+h1 {
+    text-align: center;font-size: 50px;color: white	;
+}
+a:hover {
+    color: #00B945;
+
+}
+p:hover {
+    color: #00B945;
+}
+h1:hover {
+   color:#00B945 ; 
+}
+li {
+    font-size: 25px;color: white;
+}
+li:hover {
+    color:#00B945 ;
+}
+h2 {
+    color: white;
+}
+h2:hover {
+       color:#00B945 ; 
+}
